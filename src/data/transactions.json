@@ -1,0 +1,11 @@
+[
+  {
+    "id": "7583a86c-fcdf-4a0d-baf8-cc32ef1320ec",
+    "userId": "8598fc60-e9c7-4247-85fe-7a8625a9c4c3",
+    "type": "income",
+    "category": "Salary",
+    "amount": 5000,
+    "date": "2023-10-01",
+    "createdAt": "2026-02-01T06:10:38.732Z"
+  }
+]
